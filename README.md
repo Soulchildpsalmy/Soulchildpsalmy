@@ -7,9 +7,6 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Cloud Engineering.
-- 😊 I’m looking for help with open source projects, hackathons.
 - 💼 Job interests: Cloud Engineering
 - 📫 You can [view my resume](#) and contact me by emailing uyimeoku@gmail.com.
 
